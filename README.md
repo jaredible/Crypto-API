@@ -1,1 +1,1 @@
-# Crypto-Price-API
+# Crypto-API
